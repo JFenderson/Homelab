@@ -19,9 +19,11 @@ and defensive security techniques.
 - Virtualization with Proxmox
 
 ## Lab Writeups
-(link your completed labs here as you finish them)
+*(Coming soon as labs are completed)*
 
 ## Progress
-- [x] Lab designed and documented
+- [x] Vault and documentation structure created
+- [x] Network architecture designed
 - [ ] Infrastructure deployed
 - [ ] First penetration test completed
+- [ ] First Security Onion alert triggered
